@@ -1,5 +1,4 @@
 
-
 [[Canary]]
 [[Fritz]]
 [[Cloak]]
@@ -9,20 +8,27 @@
 
 [[Hazel]]
 
-[[Zallis Efarria]]
-
 [[Rycor Brown]]
+[[Hector Brannus]]
 
 [[Snide]]
 
 [[Mac Ironwood]]
-
+[[Zallis Efarria]]
 [[Fia Pike]]
 
 [[Masksmith]]
 
 [[Vienna]]
-
 [[Jarrick Bannister]]
+[[Linneus Jorit]]
 
-[[High priest Vincent]]
+[[Vincent Varnick]]
+[[Baron Varnick]]
+
+TODO:
+Give ricor back investment
+prisioner transfer
+snide meetup
+steal seal
+drop off note before 10pm

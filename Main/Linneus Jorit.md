@@ -1,0 +1,5 @@
+- Alfeir
+- High paladin
+- Having an affair with [[Vienna]]
+	- If he discovers she's using him for politics, he will get angry
+- Younger Paladin [[Phia Nycea]]

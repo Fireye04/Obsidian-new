@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spire 2025.md",
+                "file": "Jarrick Bannister.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spire 2025"
+              "title": "Jarrick Bannister"
             }
           },
           {
@@ -27,15 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Harry.md",
+                "file": "Baron Varnick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Harry"
+              "title": "Baron Varnick"
+            }
+          },
+          {
+            "id": "268ec36666941cfb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Nike's House Plot Structure.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nike's House Plot Structure"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,14 +177,23 @@
               "icon": "lucide-list",
               "title": "Outline of Spire 2025"
             }
+          },
+          {
+            "id": "e7818e04b5b3665b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +204,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "056a88e32aba0eba",
+  "active": "268ec36666941cfb",
   "lastOpenFiles": [
-    "Hazel.md",
+    "Nike's House Plot Structire.canvas",
+    "Excalidraw/Nike's House Plot Structure.md",
+    "Excalidraw",
+    "Baron Varnick.md",
+    "Untitled.base",
+    "Nike's plot structure.md",
+    "Vincent Varnick.md",
     "Spire 2025.md",
+    "Vassago.md",
+    "Vienna.md",
+    "Linneus Jorit.md",
+    "Jarrick Bannister.md",
+    "Phia Nycea.md",
     "Rycor Brown.md",
+    "Hazel.md",
+    "Fritz.md",
+    "Finnick.md",
     "Big Harry.md",
     "Welcome.md"
   ]
