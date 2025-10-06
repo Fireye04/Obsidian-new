@@ -1,0 +1,38 @@
+[[GAME 301]] pitch for Nike's House
+
+
+- Nike's house!
+	- Narrative heavy 
+	- Branching narrative
+	- Reputation mechanics
+	- BUT 
+	- Confidence mechanic 
+		- underscores the protagonist's flaws
+		- furthers narrative themes
+		- pushes back against player min/maxing
+- Hi I'm Kai
+	- 6+ years of game development experience
+		- Pygame, Unreal 4, Unreal 5, Unity, Godot
+	- Software engineer @ vera rubin obs
+	- fireye.coffee
+- Themes -> driving force of nike's
+	- Friendship
+		- challenge idealization of romantic relationships
+		- Platonic depth
+		- Sharing challenges & building trust
+	- Investigation of human flaws
+		- emotional vulnerability & fear of rejection
+		- insecurity & feeling feelings
+		- perfectionism
+- That sounds nice, but how?
+- Characters!
+	- Flynn
+		- Protagonist
+		- Both 
+			- horrified of emotional vulnerability
+			- needs support desperately
+		- Players navigate flynn's psyche
+			- Avoid confrontation or Spend confidence to choose more difficult dialogue options
+		- 
+	- Nike
+		- Friend 
