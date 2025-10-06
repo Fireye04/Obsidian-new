@@ -36,25 +36,27 @@
 		- greatly flawed, which is reflected in player choices. 
 	- Nike
 		- Friend 
-  - largely supportive if a little egotistical
-  - has problems and flaws of their own
-   - may be explored or not based on player choices
+		  - largely supportive if a little egotistical
+		  - has problems and flaws of their own
+			   - may be explored or not based on player choices
 - Confidence
- - represents Flynn's control over their circumstances 
-  - many dialogue options will cost confidence
- - vulnerability costs confidence and thus control
- - choose to
-  - spend confidence to improve their situation 
-  - save it and risk the situation worsening
+	- main mechanic in act 1
+	 - represents Flynn's control over their circumstances 
+		  - many dialogue options will cost confidence
+	 - vulnerability costs confidence and thus control
+	 - choose to
+		  - spend confidence to improve their situation 
+		  - save it and risk the situation worsening
 - Reputation
- - secretly tracked through act 1
- - act 2 confidence is completely removed
-  - face the consequences of your actions without mechanics to save you
- - pathing determined solely by reputation after act 1
+	 - secretly tracked through act 1
+	 - act 2 confidence is completely removed
+	  - face the consequences of your actions without mechanics to save you
+	 - pathing determined solely by reputation in act 2
 - act 3
- - both mechanics return
- - offers Flynn a chance at redemption
- - comes full circle mechanically
+	 - both mechanics return
+	 - offers Flynn a chance at redemption
+	 - comes full circle mechanically
 - Demo of act 1 is playable now 
- - Linux & windows
- - fireye.coffee/projects/nikes-house
+	 - Linux & windows
+	 - fireye.coffee/projects/nikes-house
+	 - Demo concepted & developed in the ludum dare 57 game jam
