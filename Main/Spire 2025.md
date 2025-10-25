@@ -30,5 +30,5 @@ TODO:
 Give ricor back investment
 prisioner transfer
 snide meetup
-steal seal
-drop off note before 10pm
+steal seal :)
+drop off note before 10pm :)

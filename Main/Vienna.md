@@ -3,4 +3,3 @@
 - Evil as shit
 - Has Occult mind control spell, will kill all duranced drow to pay blood cost
 	- Turned [[Canary]] on previous high paladin
-	- 

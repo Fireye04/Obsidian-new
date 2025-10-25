@@ -3,19 +3,19 @@
 
 - Nike's house!
 	- Narrative heavy 
-	- Branching narrative
+	- Branching story
 	- Reputation mechanics
 	- BUT 
 	- Confidence mechanic 
-		- underscores the protagonist's flaws
-		- furthers narrative themes
+		- used to underscore the protagonist's flaws
+		- further narrative themes
 		- pushes back against player min/maxing
 - Hi I'm Kai
 	- 6+ years of game development experience
 		- Pygame, Unreal 4, Unreal 5, Unity, Godot
 	- Software engineer @ vera rubin obs
 	- fireye.coffee
-- Themes -> driving force of nike's
+-  driving force of nike's -> Themes
 	- Friendship
 		- challenge idealization of romantic relationships
 		- Platonic depth
@@ -26,6 +26,11 @@
 		- perfectionism
 - That sounds nice, but how?
 - Characters!
+	- Nike
+		- Friend 
+		  - largely supportive if a little egotistical
+		  - has problems and flaws of their own
+			   - may be explored or not based on player choices
 	- Flynn
 		- Protagonist
 		- Both 
@@ -34,11 +39,6 @@
 		- Players navigate flynn's psyche
 			- Avoid confrontation or Spend confidence to choose more difficult dialogue options
 		- greatly flawed, which is reflected in player choices. 
-	- Nike
-		- Friend 
-		  - largely supportive if a little egotistical
-		  - has problems and flaws of their own
-			   - may be explored or not based on player choices
 - Confidence
 	- main mechanic in act 1
 	 - represents Flynn's control over their circumstances 
@@ -47,6 +47,12 @@
 	 - choose to
 		  - spend confidence to improve their situation 
 		  - save it and risk the situation worsening
+- Escalation
+	-  Caused by Flynn's temper and defensiveness
+	- intense sequences where players are forced to either 
+		- escalate (+3)
+		- de-escalate(-2)
+	- each subsequent escalation makes the situation much worse.
 - Reputation
 	 - secretly tracked through act 1
 	 - act 2 confidence is completely removed
@@ -60,3 +66,115 @@
 	 - Linux & windows
 	 - fireye.coffee/projects/nikes-house
 	 - Demo concepted & developed in the ludum dare 57 game jam
+
+
+Pitches
+- shape quest
+	- open world hack and slash
+	- command system
+	- low cutscenes
+	- basic narrative
+- project sun
+	- bg3 clone
+	- chosen one narrative
+	- turns are real time quicktime-like events
+- project aurora
+	- disco elysium clone
+	- private eye
+	- assemble protagonist personality
+	- branching narrative
+- the unseen **
+	- class trip, horror
+	- scar system
+		- debuffs over time
+	- permadeath
+- scavenger
+	- clearly ai generated logo
+	- robot pc
+	- chrome for more power
+	- less chrome for more rp
+	- scope creep hell
+- trapped in long nights
+	- paranormal rpg
+- 6 bullets
+	- hitmanlike western
+- corrupt inside
+	- realtime persona
+	- mind reading
+- trial of word
+	- narrative thing
+- petbound project 
+	- vetrenary simulator
+	- with demons
+- seraphine echoes of the mind
+	- persona
+	- self discovery
+- echoes beneath keep
+	- dungeon crawler
+	- memory mechanics
+- roguelike
+	- hades-like
+- ?
+	- mind reading
+	- mental illness 
+	- psych rp
+- ill omen **
+	- try to survive in dark fantasy
+	- hiden powers
+	- forced into the spire ministry
+	- rp elements
+- cat game **
+	- visual novel/ murder mystery
+	- indirectly impact courtroom proceedings
+	- fetch quest vibes
+- chindi
+	- open world rpg
+	- vampires + native americans + rdr2????
+	- set in 1800s america + madrid??
+- blood on the rocks
+	- survival rpg
+	- revenge story
+- cody protocol
+	- survival horror
+	- reassemble memory
+- familiar strangers **
+	- dialogue/investigation
+	- face blindness exploration
+	- murder mystery
+	- time systems
+- combat game
+	- combat
+- isle **
+	- deckbuilder
+	- inscryption
+	- escape
+	- exploration
+	- unreliable narration
+- something reality
+	- open world rpg
+	- branching narrative
+	- fame mechanics
+- still project
+	- action horror
+	- defeat ai
+	- coop
+	- resources
+	- skill tree
+- Animal control
+	- click & point detective game
+	- time limit
+	- relationships
+- midnight grinding
+	- horror shooter
+	- upgrades
+- datafall
+	- narrative focused extraction shooter
+	- ai banner
+	- cyberpunk (ironic)
+	- corpo shilling
+	- live service
+- before neverland **
+	- peter pan, detroit become human
+	- faction system
+	- nb rep?? Goated??
+	- 
