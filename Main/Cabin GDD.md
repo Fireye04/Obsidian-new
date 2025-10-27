@@ -68,10 +68,18 @@ Design, build, and decorate a cabin with friends, strangers, (or alone) in a com
 
 - Resources must be gathered by hand by aid of simple tools. 
 	- Plant and cultivate trees and crops
+		- requires seeds, water, and time.
+		- hoe/dig earth, place seed, and wait.
+		- process is sped up if watered regularly.
 	- Chop trees with axes and saws for wood (two player saw minigame anyone?)
+		- Trees must be felled, then cut up into carry-able pieces to take back home for crafting later.
 	- Mine rocks with picks for stone and other minerals
+		- similarly, rocks must be broken into carryable chunks with a pick then hauled home
 	- Forage for food and other assorted items.
+		- take a walk and gather up what you find along the way
 	- Gather water
+		- use a bucket to deliver water from a stream to your cabin
+		- store it in a barrel to store it for longer
 - Gathered Resources must be stored if not immediately used.
 	- can just be littered on the ground, organized in piles or placed in specific storage structures
 - Inventory limited to tools and small items.
